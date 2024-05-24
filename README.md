@@ -1,8 +1,7 @@
 
 ## 🏥 Doctor-Patient Backend API
 
-Welcome to the Doctor-Patient Backend API! This project provides a backend solution for a platform where doctors can register their patients through a mobile or web portal.
-
+Welcome to the Doctor-Patient Backend API! 
 ## 🚀 The Task
 
 

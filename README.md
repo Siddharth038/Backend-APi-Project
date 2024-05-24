@@ -6,7 +6,7 @@ Welcome to the Doctor-Patient Backend API! This project provides a backend solut
 ## 🚀 The Task
 
 
-We need to build backend APIs to achieve tasks like:
+Build backend APIs to achieve tasks like:
 
 - Adding a doctor & their speciality 🩺
 - Adding a patient & their symptom 🏥
